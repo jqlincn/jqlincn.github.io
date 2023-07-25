@@ -72,7 +72,7 @@ My research interest includes computational intelligence, multiobjective optimiz
 <!-- # 💻 Internships -->
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# 📌 Professional Services
-- Editor: BIC-TA 2022
-- PC Members: IEEE CIFEr 2022
-- Journal Reviewer: Memetic Computing, Complex & Intelligent System
+<!--# 📌 Professional Services -->
+<!--- Editor: BIC-TA 2022 -->
+<!--- PC Members: IEEE CIFEr 2022 -->
+<!--- Journal Reviewer: Memetic Computing, Complex & Intelligent System -->
