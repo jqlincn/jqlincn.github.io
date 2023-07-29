@@ -48,7 +48,7 @@ My research interest includes computational intelligence, multiobjective optimiz
   Yong Wang (Supervisor), <ins>Jianqing Lin</ins>, Jiao Liu*, Guangyong Sun, and Tong Pang <br>
   IEEE Transactions on Evolutionary Computation, 2021 <br>
   [[PDF]](https://drive.google.com/file/d/1lKJT3K6nAR8dxn4ZcAHp9yDdmlcxZPLQ/view?usp=share_link)
-- **Adaptive dropout for high-dimensional expensive multiobjective optimization** <br>
+- **Adaptive Dropout for High-dimensional Expensive Multiobjective Optimization** <br>
   <ins>Jianqing Lin</ins>, Cheng He, and Ran Cheng* <br>
   Complex & Intelligent Systems, 2021 <br>
   [[PDF]](https://link.springer.com/content/pdf/10.1007/s40747-021-00362-5.pdf?pdf=button) [[Code]](https://github.com/jqlincn/ADSAPSO)
