@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<span class='anchor' id='publications'></span>
+
 # 📝 Publications 
 
 ## Journal Papers
