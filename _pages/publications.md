@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<span class='anchor' id='publications'></span>
+<!--<span class='anchor' id='publications'></span> -->
 
 # 📝 Publications 
 
