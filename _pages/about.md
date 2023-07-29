@@ -46,24 +46,24 @@ My research interest includes computational intelligence, multiobjective optimiz
 <!--- **Supervised Reconstruction for High-dimensional Expensive Multiobjective Optimization**  <br>  -->
 <!--  Hongbin Li, <ins>Jianqing Lin</ins>* , Qing Chen, Cheng He, Linqiang Pan*  <br>  -->
 <!--  *In press*  -->
-<!--   *In IEEE Transactions on Emerging Topics in Computational Intelligence*          -->
+<!--   _In IEEE Transactions on Emerging Topics in Computational Intelligence_          -->
 - **Multiobjective Trajectory Optimization with a Cutting and Padding Encoding Strategy for Single-UAV-Assisted Mobile Edge Computing System**  <br>
   <ins>Jianqing Lin</ins>, and Linqiang Pan*  <br>
-  *In Swarm and Evolutionary Computation, 2022*  <br>
+  _In Swarm and Evolutionary Computation, 2022_  <br>
   [[PDF]](https://drive.google.com/file/d/1UD1vfxuLSYFMlKe8_gNxVJ2rbqBqHDJ1/view?usp=share_link)
 - **Surrogate-Assisted Differential Evolution with Region Division for Expensive Optimization Problems with Discontinuous Responses**  <br>
   Yong Wang (Supervisor), <ins>Jianqing Lin</ins>, Jiao Liu*, Guangyong Sun, and Tong Pang  <br>
-  *In IEEE Transactions on Evolutionary Computation, 2021*  <br>
+  _In IEEE Transactions on Evolutionary Computation, 2021_  <br>
   [[PDF]](https://drive.google.com/file/d/1lKJT3K6nAR8dxn4ZcAHp9yDdmlcxZPLQ/view?usp=share_link)
 - **Adaptive Dropout for High-dimensional Expensive Multiobjective Optimization**  <br>
   <ins>Jianqing Lin</ins>, Cheng He, and Ran Cheng*  <br>
-  *In Complex & Intelligent Systems, 2021*  <br>
+  _In Complex & Intelligent Systems, 2021_  <br>
   [[PDF]](https://link.springer.com/content/pdf/10.1007/s40747-021-00362-5.pdf?pdf=button) [[Code]](https://github.com/jqlincn/ADSAPSO)
 
 ## Conference Papers
 - **Dimension Dropout for Evolutionary High-Dimensional Expensive Multiobjective Optimization**  <br>
   <ins>Jianqing Lin</ins>, Cheng He, and Ran Cheng*  <br>
-  *In International Conference on Evolutionary Multi-Criterion Optimization, 2021*  <br>
+  _In International Conference on Evolutionary Multi-Criterion Optimization, 2021_  <br>
   [[PDF]](https://drive.google.com/file/d/1BIKD8evvXME8rigSdMiWBVb89YH2w8wI/view?usp=share_link)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
