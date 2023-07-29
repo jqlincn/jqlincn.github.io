@@ -1,8 +1,10 @@
 ---
-layout: archive
-permalink: /publications/
-title: "Publications"
+permalink: /
+title: ""
+excerpt: "Publications"
 author_profile: true
+redirect_from: 
+  - /publications/
 ---
 
 <span class='anchor' id='publications'></span>
