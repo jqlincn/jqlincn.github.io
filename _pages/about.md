@@ -46,7 +46,7 @@ My research interest includes computational intelligence, multiobjective optimiz
   [[PDF]](https://drive.google.com/file/d/1UD1vfxuLSYFMlKe8_gNxVJ2rbqBqHDJ1/view?usp=share_link)
 - **Surrogate-Assisted Differential Evolution with Region Division for Expensive Optimization Problems with Discontinuous Responses** <br>
   Yong Wang (Supervisor), <ins>Jianqing Lin</ins>, Jiao Liu*, Guangyong Sun, and Tong Pang <br>
-  *In IEEE Transactions on Evolutionary Computation, 2021* <br>
+  *In IEEE Transactions on Evolutionary Computation, 2021*  <br>
   [[PDF]](https://drive.google.com/file/d/1lKJT3K6nAR8dxn4ZcAHp9yDdmlcxZPLQ/view?usp=share_link)
 - **Adaptive Dropout for High-dimensional Expensive Multiobjective Optimization** <br>
   <ins>Jianqing Lin</ins>, Cheng He, and Ran Cheng* <br>
