@@ -68,7 +68,7 @@ My research interest includes computational intelligence, multiobjective optimiz
   _In IEEE Symposium Series on Computational Intelligence (IEEE-SSCI), 2023, accepted_
 - **Dimension Dropout for Evolutionary High-Dimensional Expensive Multiobjective Optimization**  <br>
   <ins>Jianqing Lin</ins>, Cheng He, and Ran Cheng*  <br>
-  _In International Conference on Evolutionary Multi-Criterion Optimization, 2021_  <br>
+  _In International Conference on Evolutionary Multi-Criterion Optimization (EMO), 2021_  <br>
   [[PDF]](https://drive.google.com/file/d/1BIKD8evvXME8rigSdMiWBVb89YH2w8wI/view?usp=share_link)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
