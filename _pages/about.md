@@ -63,6 +63,9 @@ My research interest includes computational intelligence, multiobjective optimiz
   [[PDF]](https://link.springer.com/content/pdf/10.1007/s40747-021-00362-5.pdf?pdf=button) [[Code]](https://github.com/jqlincn/ADSAPSO)
 
 ## Conference Papers
+- **Long Short-Term Memory Network Assisted Evolutionary Algorithm for Computational Expensive Multiobjective Optimization**  <br>
+  Cheng He, Hongbin Li*, <ins>Jianqing Lin</ins>, and Zhichao Lu   <br>
+  _In 2023 IEEE Symposium Series on Computational Intelligence (IEEE-SSCI), accepted_
 - **Dimension Dropout for Evolutionary High-Dimensional Expensive Multiobjective Optimization**  <br>
   <ins>Jianqing Lin</ins>, Cheng He, and Ran Cheng*  <br>
   _In International Conference on Evolutionary Multi-Criterion Optimization, 2021_  <br>
