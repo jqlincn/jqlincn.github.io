@@ -50,7 +50,7 @@ My research interest includes computational intelligence, multiobjective optimiz
   Hongbin Li, <ins>Jianqing Lin</ins>* , Qing Chen, Cheng He, Linqiang Pan*  <br> 
   _In IEEE Transactions on Emerging Topics in Computational Intelligence, accepted_  
 - **Multiobjective Trajectory Optimization with a Cutting and Padding Encoding Strategy for Single-UAV-Assisted Mobile Edge Computing System**  <br>
-  <ins>Jianqing Lin</ins>, and Linqiang Pan*  <br>
+  <ins>Jianqing Lin</ins> and Linqiang Pan*  <br>
   _In Swarm and Evolutionary Computation, 2022_  <br>
   [[PDF]](https://drive.google.com/file/d/1UD1vfxuLSYFMlKe8_gNxVJ2rbqBqHDJ1/view?usp=share_link)
 - **Surrogate-Assisted Differential Evolution with Region Division for Expensive Optimization Problems with Discontinuous Responses**  <br>
