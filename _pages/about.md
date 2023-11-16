@@ -37,7 +37,7 @@ My research interest includes computational intelligence, multiobjective optimiz
 # 📝 Publications 
 
 ## Journal Papers
-<!--- **Surrogate-assisted Multiobjective Genes Selection Method for RNA-seq Data Classification**  <br>  -->
+<!--- **Surrogate-assisted Multiobjective Genes Selection Method for Cell Classification from Single-cell RNA Sequencing Data **  <br>  -->
 <!--  <ins>Jianqing Lin</ins>, Cheng He, Hanjing Jiang, and Linqiang Pan  <br>  -->
 <!--  _TBD, in press_ --> 
 <!--- **Variable Reconstruction for Evolutionary Large-scale Expensive Multiobjective Optimization**  <br>  -->
@@ -47,7 +47,7 @@ My research interest includes computational intelligence, multiobjective optimiz
 <!--  Linqiang Pan (Supervisor), <ins>Jianqing Lin</ins>, Handing Wang, Cheng He*, Kay Chen Tan, and Yaochu Jin  <br>  -->
 <!--  _In IEEE Transactions on Evolutionary Computation, under review_ --> 
 - **Supervised Reconstruction for High-dimensional Expensive Multiobjective Optimization**  <br> 
-  Hongbin Li, <ins>Jianqing Lin</ins>* , Qing Chen, Cheng He, Linqiang Pan*  <br> 
+  Hongbin Li, <ins>Jianqing Lin</ins>*, Qing Chen, Cheng He, Linqiang Pan*  <br> 
   _In IEEE Transactions on Emerging Topics in Computational Intelligence, accepted_  
 - **Multiobjective Trajectory Optimization with a Cutting and Padding Encoding Strategy for Single-UAV-Assisted Mobile Edge Computing System**  <br>
   <ins>Jianqing Lin</ins> and Linqiang Pan*  <br>
