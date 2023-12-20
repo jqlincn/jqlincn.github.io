@@ -22,17 +22,15 @@ I am currently pursuing the Ph.D. degree in artificial intelligence with the Hua
 My research interest includes computational intelligence, multiobjective optimization, and surrogate-assisted evolutionary optimization. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-# 📖 Educations
+# 📖 Experiences
 - *2021 – Now*, Doctor of Philosophy, Huazhong University of Science and Technology, Wuhan, China.
+- *2020 – 2021*, Research Assistant, Department of Computer Science and Engineering, Southern University of Science and Technology, China.
 - *2017 – 2020*, Master of Engineering, Central South University, Changsha, China.
 - *2013 – 2017*, Bachelor of Engineering, Tiangong University, Tianjin, China.
 
 <!-- # 🔥 News -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-# 💻 Working Experiences
-- *2020 – 2021*, Research Assistant, Department of Computer Science and Engineering, Southern University of Science and Technology, China.
 
 # 📝 Publications 
 
