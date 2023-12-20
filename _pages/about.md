@@ -24,7 +24,7 @@ My research interest includes computational intelligence, multiobjective optimiz
 
 # 📖 Experiences
 - *2021 – Now*, Doctor of Philosophy, Huazhong University of Science and Technology, Wuhan, China.
-- *2020 – 2021*, Research Assistant, Department of Computer Science and Engineering, Southern University of Science and Technology, China.
+- *2020 – 2021*, Research Assistant, Southern University of Science and Technology, Shenzhen, China.
 - *2017 – 2020*, Master of Engineering, Central South University, Changsha, China.
 - *2013 – 2017*, Bachelor of Engineering, Tiangong University, Tianjin, China.
 
