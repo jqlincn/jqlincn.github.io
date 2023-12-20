@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : <p align="center">"Jianqing Lin <br />  (林剑清)</p>"
+  name             : "  Jianqing Lin <br />  (林剑清)"
   avatar           : "images/Photo-3.jpg" 
   bio              : "Huazhong University of Science and Technology"
   location         : "Wuhan, China"
