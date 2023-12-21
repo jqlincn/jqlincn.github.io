@@ -46,7 +46,7 @@ My research interest includes computational intelligence, multiobjective optimiz
 <!--  _In IEEE Transactions on Evolutionary Computation, under review_ --> 
 - **Supervised Reconstruction for High-dimensional Expensive Multiobjective Optimization**  <br> 
   Hongbin Li, <ins>Jianqing Lin* </ins>, Qing Chen, Cheng He, Linqiang Pan*  <br> 
-  _In IEEE Transactions on Emerging Topics in Computational Intelligence, in press_ <br>
+  _In IEEE Transactions on Emerging Topics in Computational Intelligence, 2023, in press_ <br>
 - **Multiobjective Trajectory Optimization with a Cutting and Padding Encoding Strategy for Single-UAV-Assisted Mobile Edge Computing System**  <br>
   <ins>Jianqing Lin</ins> and Linqiang Pan*  <br>
   _In Swarm and Evolutionary Computation, 2022_  <br>
