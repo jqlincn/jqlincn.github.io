@@ -64,13 +64,13 @@ My research interest includes computational intelligence, multiobjective optimiz
 ## Conference Papers
 - **Selection of Cancer Biomarkers from Microarray Gene Expression Data Utilizing the Bi-Objective Optimization Method**  <br>
   Hanjing Jiang, <ins>Jianqing Lin</ins>, Huachao Zhu, and Yabing Huang*   <br>
-  _In IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023, accepted_
+  _In IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023_
 <!---- **Two-Archive-Based Competitive Swarm Optimizer for Constrained Multiobjective Optimization**  <br>-->
 <!---  Lianghao Li, Cheng He, Jianqing Lin, and Linqiang Pan*   <br>-->
 <!---  _In International Conference on Data-driven Optimization of Complex Systems (DOCS), 2023, accepted_-->
 - **Long Short-Term Memory Network Assisted Evolutionary Algorithm for Computational Expensive Multiobjective Optimization**  <br>
   Cheng He, Hongbin Li*, <ins>Jianqing Lin</ins>, and Zhichao Lu   <br>
-  _In IEEE Symposium Series on Computational Intelligence (IEEE-SSCI), 2023, accepted_
+  _In IEEE Symposium Series on Computational Intelligence (IEEE-SSCI), 2023_
 - **Dimension Dropout for Evolutionary High-Dimensional Expensive Multiobjective Optimization**  <br>
   <ins>Jianqing Lin</ins>, Cheng He, and Ran Cheng*  <br>
   _In International Conference on Evolutionary Multi-Criterion Optimization (EMO), 2021_  <br>
