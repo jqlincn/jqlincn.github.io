@@ -63,7 +63,7 @@ My research interest includes computational intelligence, multiobjective optimiz
 
 ## Conference Papers
 - **Reference Vector Guided Variables Selection for Expensive Large-scale Multiobjective Optimization**  <br>
-  Jianqing Lin, Cheng He, Xueming Liu, and Linqiang Pan*   <br>
+  <ins>Jianqing Lin</ins>, Cheng He, Xueming Liu, and Linqiang Pan*   <br>
    _In IEEE World Congress on Computational Intelligence (IEEE WCCI), 2024_
 - **Selection of Cancer Biomarkers from Microarray Gene Expression Data Utilizing the Bi-Objective Optimization Method**  <br>
   Hanjing Jiang, <ins>Jianqing Lin</ins>, Huachao Zhu, and Yabing Huang*   <br>
