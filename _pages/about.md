@@ -62,6 +62,9 @@ My research interest includes computational intelligence, multiobjective optimiz
   [[PDF]](https://link.springer.com/content/pdf/10.1007/s40747-021-00362-5.pdf?pdf=button) [[Code]](https://github.com/jqlincn/ADSAPSO)
 
 ## Conference Papers
+- **Reference Vector Guided Variables Selection for Expensive Large-scale Multiobjective Optimization**  <br>
+  Jianqing Lin, Cheng He, Xueming Liu, and Linqiang Pan*   <br>
+   _In IEEE World Congress on Computational Intelligence (IEEE WCCI), 2024_
 - **Selection of Cancer Biomarkers from Microarray Gene Expression Data Utilizing the Bi-Objective Optimization Method**  <br>
   Hanjing Jiang, <ins>Jianqing Lin</ins>, Huachao Zhu, and Yabing Huang*   <br>
   _In IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023_
