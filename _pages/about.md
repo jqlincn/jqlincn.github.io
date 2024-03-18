@@ -41,9 +41,9 @@ My research interest includes computational intelligence, multiobjective optimiz
 <!--- **Variable Reconstruction for Evolutionary Large-scale Expensive Multiobjective Optimization**  <br>  -->
 <!--  <ins>Jianqing Lin</ins>, Cheng He, Ye Tian, and Linqiang Pan  <br>  -->
 <!--  _IEEE/CAA Journal of Automatica Sinica, in press_ --> 
-<!--- **Computationally Expensive High-dimensional Multiobjective Optimization via Surrogate-assisted Reformulation and Decomposition**  <br>  -->
-<!--  Linqiang Pan (Supervisor), <ins>Jianqing Lin</ins>, Handing Wang, Cheng He*, Kay Chen Tan, and Yaochu Jin  <br>  -->
-<!--  _In IEEE Transactions on Evolutionary Computation, under review_ --> 
+- **Computationally Expensive High-dimensional Multiobjective Optimization via Surrogate-assisted Reformulation and Decomposition**  <br>
+  Linqiang Pan (Supervisor), <ins>Jianqing Lin</ins>, Handing Wang, Cheng He*, Kay Chen Tan, and Yaochu Jin  <br>
+  _In IEEE Transactions on Evolutionary Computation, 2024_
 - **Supervised Reconstruction for High-dimensional Expensive Multiobjective Optimization**  <br> 
   Hongbin Li, <ins>Jianqing Lin* </ins>, Qing Chen, Cheng He, Linqiang Pan*  <br> 
   _In IEEE Transactions on Emerging Topics in Computational Intelligence, 2024_ <br>
