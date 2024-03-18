@@ -43,22 +43,22 @@ My research interest includes computational intelligence, multiobjective optimiz
 <!--  _IEEE/CAA Journal of Automatica Sinica, in press_ --> 
 - **Computationally Expensive High-dimensional Multiobjective Optimization via Surrogate-assisted Reformulation and Decomposition**  <br>
   Linqiang Pan (Supervisor), <ins>Jianqing Lin</ins>, Handing Wang, Cheng He*, Kay Chen Tan, and Yaochu Jin  <br>
-  _In IEEE Transactions on Evolutionary Computation, 2024_
+  _IEEE Transactions on Evolutionary Computation, 2024_
 - **Supervised Reconstruction for High-dimensional Expensive Multiobjective Optimization**  <br> 
   Hongbin Li, <ins>Jianqing Lin* </ins>, Qing Chen, Cheng He, Linqiang Pan*  <br> 
-  _In IEEE Transactions on Emerging Topics in Computational Intelligence, 2024_ <br>
+  _IEEE Transactions on Emerging Topics in Computational Intelligence, 2024_ <br>
   [[PDF]](https://ieeexplore.ieee.org/abstract/document/10428945) [[Code]](https://github.com/jqlincn/SR-SAEA)
 - **Multiobjective Trajectory Optimization with a Cutting and Padding Encoding Strategy for Single-UAV-Assisted Mobile Edge Computing System**  <br>
   <ins>Jianqing Lin</ins> and Linqiang Pan*  <br>
-  _In Swarm and Evolutionary Computation, 2022_  <br>
+  _Swarm and Evolutionary Computation, 2022_  <br>
   [[PDF]](https://drive.google.com/file/d/1UD1vfxuLSYFMlKe8_gNxVJ2rbqBqHDJ1/view?usp=share_link)
 - **Surrogate-Assisted Differential Evolution with Region Division for Expensive Optimization Problems with Discontinuous Responses**  <br>
   Yong Wang (Supervisor), <ins>Jianqing Lin</ins>, Jiao Liu*, Guangyong Sun, and Tong Pang  <br>
-  _In IEEE Transactions on Evolutionary Computation, 2021_  <br>
+  _IEEE Transactions on Evolutionary Computation, 2021_  <br>
   [[PDF]](https://drive.google.com/file/d/1lKJT3K6nAR8dxn4ZcAHp9yDdmlcxZPLQ/view?usp=share_link)
 - **Adaptive Dropout for High-dimensional Expensive Multiobjective Optimization**  <br>
   <ins>Jianqing Lin</ins>, Cheng He, and Ran Cheng*  <br>
-  _In Complex & Intelligent Systems, 2021_  <br>
+  _Complex & Intelligent Systems, 2021_  <br>
   [[PDF]](https://link.springer.com/content/pdf/10.1007/s40747-021-00362-5.pdf?pdf=button) [[Code]](https://github.com/jqlincn/ADSAPSO)
 
 ## Conference Papers
