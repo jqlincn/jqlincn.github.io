@@ -51,8 +51,8 @@ My research interest includes computational intelligence, multiobjective optimiz
   [[PDF]](https://ieeexplore.ieee.org/abstract/document/10428945) [[Code]](https://github.com/jqlincn/SR-SAEA)
 - **Multiobjective Trajectory Optimization with a Cutting and Padding Encoding Strategy for Single-UAV-Assisted Mobile Edge Computing System**  <br>
   <ins>Jianqing Lin</ins> and Linqiang Pan*  <br>
-  _Swarm and Evolutionary Computation, 2022_  <br>
-  [[PDF]](https://drive.google.com/file/d/1UD1vfxuLSYFMlKe8_gNxVJ2rbqBqHDJ1/view?usp=share_link)
+  _Swarm and Evolutionary Computation, 2022_  <br> 
+  [[PDF]](https://drive.google.com/file/d/1UD1vfxuLSYFMlKe8_gNxVJ2rbqBqHDJ1/view?usp=share_link) <p style="color:blue"> We no longer provide the source code of this paper. </p>
 - **Surrogate-Assisted Differential Evolution with Region Division for Expensive Optimization Problems with Discontinuous Responses**  <br>
   Yong Wang (Supervisor), <ins>Jianqing Lin</ins>, Jiao Liu*, Guangyong Sun, and Tong Pang  <br>
   _IEEE Transactions on Evolutionary Computation, 2021_  <br>
