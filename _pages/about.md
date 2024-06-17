@@ -106,6 +106,6 @@ My research interest includes computational intelligence, multiobjective optimiz
 
 # 📌 Professional Services
 - **Journal Reviewer:**   <br>
-  IEEE Transactions on Evolutionary Computation   <br>
-  Swarm and Evolutionary Computation   <br>
-  Complex & Intelligent System   <br>
+  _IEEE Transactions on Evolutionary Computation_   <br>
+  _Swarm and Evolutionary Computation_   <br>
+  _Complex & Intelligent System_   <br>
