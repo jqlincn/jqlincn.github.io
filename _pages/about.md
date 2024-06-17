@@ -105,6 +105,7 @@ My research interest includes computational intelligence, multiobjective optimiz
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 📌 Professional Services
-<!--- Editor: BIC-TA 2022 -->
-<!--- PC Members: IEEE CIFEr 2022 -->
-- Journal Reviewer: IEEE Transactions on Evolutionary Computation, Swarm and Evolutionary Computation, Complex & Intelligent System
+- **Journal Reviewer:**
+  IEEE Transactions on Evolutionary Computation
+  Swarm and Evolutionary Computation
+  Complex & Intelligent System
