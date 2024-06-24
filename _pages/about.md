@@ -34,50 +34,24 @@ My research interest includes computational intelligence, multiobjective optimiz
 
 # 📝 Publications 
 
-## Journal Papers
 <!--- **Surrogate-assisted Multiobjective Genes Selection Method for Cell Classification from Single-cell RNA Sequencing Data **  <br>  -->
 <!--  <ins>Jianqing Lin</ins>, Cheng He, Hanjing Jiang, and Linqiang Pan  <br>  -->
 <!--  _TBD, in press_ --> 
 <!--- **Variable Reconstruction for Evolutionary Large-scale Expensive Multiobjective Optimization**  <br>  -->
 <!--  <ins>Jianqing Lin</ins>, Cheng He, Ye Tian, and Linqiang Pan  <br>  -->
 <!--  _IEEE/CAA Journal of Automatica Sinica, in press_ --> 
-- **Computationally Expensive High-dimensional Multiobjective Optimization via Surrogate-assisted Reformulation and Decomposition**  <br>
-  Linqiang Pan (Supervisor), <ins>Jianqing Lin</ins>, Handing Wang, Cheng He*, Kay Chen Tan, and Yaochu Jin  <br>
-  _IEEE Transactions on Evolutionary Computation, 2024_  <br>
-  [[PDF]](https://ieeexplore.ieee.org/document/10477568) [[Code]](https://github.com/jqlincn/TP-SAEA)
-- **Supervised Reconstruction for High-dimensional Expensive Multiobjective Optimization**  <br> 
-  Hongbin Li, <ins>Jianqing Lin* </ins>, Qing Chen, Cheng He, Linqiang Pan*  <br> 
-  _IEEE Transactions on Emerging Topics in Computational Intelligence, 2024_ <br>
-  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10428945) [[Code]](https://github.com/jqlincn/SR-SAEA)
-- **Multiobjective Trajectory Optimization with a Cutting and Padding Encoding Strategy for Single-UAV-Assisted Mobile Edge Computing System**  <br>
-  <ins>Jianqing Lin</ins> and Linqiang Pan*  <br>
-  _Swarm and Evolutionary Computation, 2022_  <br> 
-  [[PDF]](https://drive.google.com/file/d/1UD1vfxuLSYFMlKe8_gNxVJ2rbqBqHDJ1/view?usp=share_link) <span style="color: blue;">We no longer provide the source code of this paper. </span>
-- **Surrogate-Assisted Differential Evolution with Region Division for Expensive Optimization Problems with Discontinuous Responses**  <br>
-  Yong Wang (Supervisor), <ins>Jianqing Lin</ins>, Jiao Liu*, Guangyong Sun, and Tong Pang  <br>
-  _IEEE Transactions on Evolutionary Computation, 2021_  <br>
-  [[PDF]](https://drive.google.com/file/d/1lKJT3K6nAR8dxn4ZcAHp9yDdmlcxZPLQ/view?usp=share_link) <span style="color: blue;">We no longer provide the source code of this paper. </span>
-- **Adaptive Dropout for High-dimensional Expensive Multiobjective Optimization**  <br>
-  <ins>Jianqing Lin</ins>, Cheng He, and Ran Cheng*  <br>
-  _Complex & Intelligent Systems, 2021_  <br>
-  [[PDF]](https://link.springer.com/content/pdf/10.1007/s40747-021-00362-5.pdf?pdf=button) [[Code]](https://github.com/jqlincn/ADSAPSO)
+- Linqiang Pan (Supervisor), **Jianqing Lin**, Handing Wang, Cheng He*, Kay Chen Tan, and Yaochu Jin. [Computationally Expensive High-dimensional Multiobjective Optimization via Surrogate-assisted Reformulation and Decomposition](https://ieeexplore.ieee.org/document/10477568), _IEEE Transactions on Evolutionary Computation_, 2024
+ [[Code]](https://github.com/jqlincn/TP-SAEA)
+- **Jianqing Lin**, Cheng He, Xueming Liu, and Linqiang Pan*. Reference Vector Guided Variables Selection for Expensive Large-scale Multiobjective Optimization, in _IEEE World Congress on Computational Intelligence (IEEE WCCI)_, 2024
+- Hongbin Li, **Jianqing Lin***, Qing Chen, Cheng He, Linqiang Pan*. [Supervised Reconstruction for High-dimensional Expensive Multiobjective Optimization](https://ieeexplore.ieee.org/abstract/document/10428945), _IEEE Transactions on Emerging Topics in Computational Intelligence_, 2024
+[[Code]](https://github.com/jqlincn/SR-SAEA)
+- Cheng He, Hongbin Li*, **Jianqing Lin**, and Zhichao Lu. [Long Short-Term Memory Network Assisted Evolutionary Algorithm for Computational Expensive Multiobjective Optimization](https://ieeexplore.ieee.org/abstract/document/10371889), in _IEEE Symposium Series on Computational Intelligence (IEEE SSCI)_, 2023
+- Hanjing Jiang, **Jianqing Lin**, Huachao Zhu, and Yabing Huang*. [Selection of Cancer Biomarkers from Microarray Gene Expression Data Utilizing the Bi-Objective Optimization Method](https://ieeexplore.ieee.org/abstract/document/10385464), in _IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)_, 2023
+- **Jianqing Lin** and Linqiang Pan*. [Multiobjective Trajectory Optimization with a Cutting and Padding Encoding Strategy for Single-UAV-Assisted Mobile Edge Computing System](https://www.sciencedirect.com/science/article/pii/S2210650222001316), _Swarm and Evolutionary Computation_, 2022
+- Yong Wang (Supervisor), **Jianqing Lin**, Jiao Liu*, Guangyong Sun, and Tong Pang. [Surrogate-Assisted Differential Evolution with Region Division for Expensive Optimization Problems with Discontinuous Responses](https://ieeexplore.ieee.org/abstract/document/9559391), _IEEE Transactions on Evolutionary Computation_, 2021  <br>
+- **Jianqing Lin**, Cheng He, and Ran Cheng*. [Adaptive Dropout for High-dimensional Expensive Multiobjective Optimization](https://link.springer.com/article/10.1007/s40747-021-00362-5), _Complex & Intelligent Systems_, 2021
+  [[Code]](https://github.com/jqlincn/ADSAPSO)
 
-## Conference Papers
-- **Reference Vector Guided Variables Selection for Expensive Large-scale Multiobjective Optimization**  <br>
-  <ins>Jianqing Lin</ins>, Cheng He, Xueming Liu, and Linqiang Pan*   <br>
-   _In IEEE World Congress on Computational Intelligence (IEEE WCCI), 2024_
-- **Selection of Cancer Biomarkers from Microarray Gene Expression Data Utilizing the Bi-Objective Optimization Method**  <br>
-  Hanjing Jiang, <ins>Jianqing Lin</ins>, Huachao Zhu, and Yabing Huang*   <br>
-  _In IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM), 2023_  <br>
-  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10385464)
-- **Long Short-Term Memory Network Assisted Evolutionary Algorithm for Computational Expensive Multiobjective Optimization**  <br>
-  Cheng He, Hongbin Li*, <ins>Jianqing Lin</ins>, and Zhichao Lu   <br>
-  _In IEEE Symposium Series on Computational Intelligence (IEEE SSCI), 2023_  <br>
-  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10371889)
-- **Dimension Dropout for Evolutionary High-Dimensional Expensive Multiobjective Optimization**  <br>
-  <ins>Jianqing Lin</ins>, Cheng He, and Ran Cheng*  <br>
-  _In International Conference on Evolutionary Multi-Criterion Optimization (EMO), 2021_  <br>
-  [[PDF]](https://drive.google.com/file/d/1BIKD8evvXME8rigSdMiWBVb89YH2w8wI/view?usp=share_link)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
