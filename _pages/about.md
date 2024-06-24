@@ -34,12 +34,8 @@ My research interest includes computational intelligence, multiobjective optimiz
 
 # 📝 Publications 
 
-<!--- **Surrogate-assisted Multiobjective Genes Selection Method for Cell Classification from Single-cell RNA Sequencing Data **  <br>  -->
-<!--  <ins>Jianqing Lin</ins>, Cheng He, Hanjing Jiang, and Linqiang Pan  <br>  -->
-<!--  _TBD, in press_ --> 
-<!--- **Variable Reconstruction for Evolutionary Large-scale Expensive Multiobjective Optimization**  <br>  -->
-<!--  <ins>Jianqing Lin</ins>, Cheng He, Ye Tian, and Linqiang Pan  <br>  -->
-<!--  _IEEE/CAA Journal of Automatica Sinica, in press_ --> 
+<!--- <b>Jianqing Lin</b>, Cheng He, Hanjing Jiang, and Linqiang Pan. Surrogate-assisted Multiobjective Genes Selection Method for Cell Classification from Single-cell RNA Sequencing Data, _IEEE Transactions on Evolutionary Computation_, under review --> 
+<!--- <b>Jianqing Lin</b>, Cheng He, Ye Tian, and Linqiang Pan. Variable Reconstruction for Evolutionary Large-scale Expensive Multiobjective Optimization, _IEEE/CAA Journal of Automatica Sinica_, under review  <br>  -->
 - Linqiang Pan (Supervisor), <b>Jianqing Lin</b>, Handing Wang, Cheng He*, Kay Chen Tan, and Yaochu Jin. [Computationally Expensive High-dimensional Multiobjective Optimization via Surrogate-assisted Reformulation and Decomposition](https://ieeexplore.ieee.org/document/10477568), _IEEE Transactions on Evolutionary Computation_, 2024
  [[Code]](https://github.com/jqlincn/TP-SAEA)
 - **Jianqing Lin**, Cheng He, Xueming Liu, and Linqiang Pan*. Reference Vector Guided Variables Selection for Expensive Large-scale Multiobjective Optimization, in _IEEE World Congress on Computational Intelligence (IEEE WCCI)_, 2024
