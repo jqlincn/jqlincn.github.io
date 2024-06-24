@@ -79,7 +79,7 @@ My research interest includes computational intelligence, multiobjective optimiz
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 📌 Professional Services
-- **Journal Reviewer:**   <br>
+- **Reviewer/PC Member for:**   <br>
   _IEEE Transactions on Evolutionary Computation_   <br>
   _Swarm and Evolutionary Computation_   <br>
   _Complex & Intelligent System_   <br>
