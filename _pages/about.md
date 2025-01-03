@@ -51,7 +51,7 @@ My research interest includes computational intelligence, multiobjective optimiz
 <ol> 
  <li> L. Li, <b>J. Lin</b>, C. He, L. Pan. <a href="https://www.sciencedirect.com/science/article/pii/S1568494624001157">Clustering-based genetic offspring generation for solving multi-objective optimization problems with intricate Pareto sets</a>, <i>Applied Soft Computing</i>, 2024    </li>
  <li> C. He, H. Li, <b>J. Lin</b>, and Z. Lu. <a href="https://ieeexplore.ieee.org/abstract/document/10371889">Long Short-Term Memory Network Assisted Evolutionary Algorithm for Computational Expensive Multiobjective Optimization</a>, in <i>IEEE Symposium Series on Computational Intelligence (IEEE SSCI)</i>, 2023   </li>
- <li> H. Jiang, <b>J. Lin</b>, H. Zhu, and Y. Huang. <a href="https://ieeexplore.ieee.org/abstract/document/10385464">Selection of Cancer Biomarkers from Microarray Gene Expression Data Utilizing the Bi-Objective Optimization Method</a>, in <i>IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)</i>, 2023   </li>
+<!--  <li> H. Jiang, <b>J. Lin</b>, H. Zhu, and Y. Huang. <a href="https://ieeexplore.ieee.org/abstract/document/10385464">Selection of Cancer Biomarkers from Microarray Gene Expression Data Utilizing the Bi-Objective Optimization Method</a>, in <i>IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)</i>, 2023   </li>-->
 </ol>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
