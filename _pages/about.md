@@ -36,8 +36,8 @@ My research interest includes computational intelligence, multiobjective optimiz
 
 ## Selected Papers
 <ol> 
-<!--- <b>J. Lin</b>, C. He, H. Jiang, and L. Pan. Surrogate-assisted Multiobjective Genes Selection Method for Cell Classification from Single-cell RNA Sequencing Data, _IEEE Transactions on Evolutionary Computation_, under review --> 
-<!--- <b>J. Lin</b>, C. He, Y. Tian, and L. Pan. Variable Reconstruction for Evolutionary Large-scale Expensive Multiobjective Optimization, _IEEE/CAA Journal of Automatica Sinica_, under review  <br>  -->
+<li> <b>J. Lin</b>, C. He, H. Jiang, Y. Huang, and Y. Jin. Surrogate-assisted Multiobjective Genes Selection Method for Cell Classification from Single-cell RNA Sequencing Data, <i>IEEE Transactions on Evolutionary Computation</i>, 2025 </li>
+<li> <b>J. Lin</b>, C. He, Y. Tian, and L. Pan. Variable Reconstruction for Evolutionary Large-scale Expensive Multiobjective Optimization, <i>IEEE/CAA Journal of Automatica Sinica</i>, 2025 </li>
  <li> L. Pan (Supervisor), <b>J. Lin</b>, H. Wang, C. He, K. C. Tan, and Y. Jin. <a href="https://ieeexplore.ieee.org/document/10477568">Computationally Expensive High-dimensional Multiobjective Optimization via Surrogate-assisted Reformulation and Decomposition</a>, <i>IEEE Transactions on Evolutionary Computation</i>, 2024 <a href="https://github.com/jqlincn/TP-SAEA">[Code]</a> </li>
  <li>  <b>J. Lin</b>, C. He, X. Liu, and L. Pan.  <a href="https://ieeexplore.ieee.org/document/10611889">Reference Vector Guided Variables Selection for Expensive Large-scale Multiobjective Optimization</a>, in <i>2024 IEEE Congress on Evolutionary Computation (CEC)</i>, 2024 <a href="https://github.com/jqlincn/RVSPSO">[Code]</a> </li>
  <li> H. Li, <b>J. Lin* </b>, Q. Chen, C. He, L. Pan*. <a href="https://ieeexplore.ieee.org/abstract/document/10428945">Supervised Reconstruction for High-dimensional Expensive Multiobjective Optimization</a>, <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, 2024 </li>
