@@ -79,12 +79,12 @@ My research interest includes computational intelligence, multiobjective optimiz
 <!-- # 💻 Internships -->
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# 📌 Professional Services
-- **Reviewer for:**   <br>
-  _IEEE Transactions on Evolutionary Computation_   <br>
-  _Swarm and Evolutionary Computation_   <br>
-  _Complex & Intelligent System_   <br>
+<!--# 📌 Professional Services  -->
+<!--- **Reviewer for:**   <br>  -->
+<!--  _IEEE Transactions on Evolutionary Computation_   <br>  -->
+<!--  _Swarm and Evolutionary Computation_   <br>  -->
+<!--  _Complex & Intelligent System_   <br>  -->
 
-- **Editor/PC Member for:**   <br>
-  _Bio-inspired Computing: Theories and Applications_   <br>
-  _IEEE Symposium on Computational Intelligence for Financial Engineering and Economics_   <br>
+<!--- **Editor/PC Member for:**   <br>  -->
+<!--  _Bio-inspired Computing: Theories and Applications_   <br>  -->
+<!--  _IEEE Symposium on Computational Intelligence for Financial Engineering and Economics_   <br>  -->
