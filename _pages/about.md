@@ -36,22 +36,22 @@ My research interest includes computational intelligence, multiobjective optimiz
 
 ## Selected Papers
 <ol> 
-<li> <b>Jianqing Lin</b>, C. He, H. Jiang, Y. Huang, and Y. Jin. Surrogate-assisted Multiobjective Genes Selection Method for Cell Classification from Single-cell RNA Sequencing Data, <i>IEEE Transactions on Evolutionary Computation</i>, 2025 </li>
-<li> <b>Jianqing Lin</b>, C. He, Y. Tian, and L. Pan. Variable Reconstruction for Evolutionary Large-scale Expensive Multiobjective Optimization and Its Application on Aerodynamic Design, <i>IEEE/CAA Journal of Automatica Sinica</i>, 2025 </li>
- <li> L. Pan (Supervisor), <b>Jianqing Lin</b>, H. Wang, C. He, K. C. Tan, and Y. Jin. Computationally Expensive High-dimensional Multiobjective Optimization via Surrogate-assisted Reformulation and Decomposition, <i>IEEE Transactions on Evolutionary Computation</i>, 2024 <a href="https://github.com/jqlincn/TP-SAEA">[Code]</a> </li>
- <li>  <b>Jianqing Lin</b>, C. He, X. Liu, and L. Pan.  Reference Vector Guided Variables Selection for Expensive Large-scale Multiobjective Optimization, in <i>2024 IEEE Congress on Evolutionary Computation (CEC)</i>, 2024 <a href="https://github.com/jqlincn/RVSPSO">[Code]</a> </li>
- <li> H. Li, <b>Jianqing Lin* </b>, Q. Chen, C. He, L. Pan*. Supervised Reconstruction for High-dimensional Expensive Multiobjective Optimization, <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, 2024 </li>
- <li> <b>Jianqing Lin</b> and L. Pan. Multiobjective Trajectory Optimization with a Cutting and Padding Encoding Strategy for Single-UAV-Assisted Mobile Edge Computing System, <i>Swarm and Evolutionary Computation</i>, 2022   </li>
- <li> Y. Wang (Supervisor), <b>Jianqing Lin</b>, J. Liu, G. Sun, and T. Pang. Surrogate-Assisted Differential Evolution with Region Division for Expensive Optimization Problems with Discontinuous Responses, <i>IEEE Transactions on Evolutionary Computation</i>, 2021 </li>
- <li> <b>Jianqing Lin</b>, C. He, and R. Cheng. Adaptive Dropout for High-dimensional Expensive Multiobjective Optimization, <i>Complex & Intelligent Systems</i>, 2021  <a href="https://github.com/jqlincn/ADSAPSO">[Code]</a>  </li>
+<li> <b>J. Lin</b>, C. He, H. Jiang, Y. Huang, and Y. Jin. Surrogate-assisted Multiobjective Genes Selection Method for Cell Classification from Single-cell RNA Sequencing Data, <i>IEEE Transactions on Evolutionary Computation</i>, 2025 </li>
+<li> <b>J.Lin</b>, C. He, Y. Tian, and L. Pan. Variable Reconstruction for Evolutionary Large-scale Expensive Multiobjective Optimization and Its Application on Aerodynamic Design, <i>IEEE/CAA Journal of Automatica Sinica</i>, 2025 </li>
+ <li> L. Pan (Supervisor), <b>J.Lin</b>, H. Wang, C. He, K. C. Tan, and Y. Jin. Computationally Expensive High-dimensional Multiobjective Optimization via Surrogate-assisted Reformulation and Decomposition, <i>IEEE Transactions on Evolutionary Computation</i>, 2024 <a href="https://github.com/jqlincn/TP-SAEA">[Code]</a> </li>
+ <li>  <b>J.Lin</b>, C. He, X. Liu, and L. Pan.  Reference Vector Guided Variables Selection for Expensive Large-scale Multiobjective Optimization, in <i>2024 IEEE Congress on Evolutionary Computation (CEC)</i>, 2024 <a href="https://github.com/jqlincn/RVSPSO">[Code]</a> </li>
+ <li> H. Li, <b>J.Lin* </b>, Q. Chen, C. He, L. Pan*. Supervised Reconstruction for High-dimensional Expensive Multiobjective Optimization, <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, 2024 </li>
+ <li> <b>J.Lin</b> and L. Pan. Multiobjective Trajectory Optimization with a Cutting and Padding Encoding Strategy for Single-UAV-Assisted Mobile Edge Computing System, <i>Swarm and Evolutionary Computation</i>, 2022   </li>
+ <li> Y. Wang (Supervisor), <b>J.Lin</b>, J. Liu, G. Sun, and T. Pang. Surrogate-Assisted Differential Evolution with Region Division for Expensive Optimization Problems with Discontinuous Responses, <i>IEEE Transactions on Evolutionary Computation</i>, 2021 </li>
+ <li> <b>J.Lin</b>, C. He, and R. Cheng. Adaptive Dropout for High-dimensional Expensive Multiobjective Optimization, <i>Complex & Intelligent Systems</i>, 2021  <a href="https://github.com/jqlincn/ADSAPSO">[Code]</a>  </li>
  
 </ol>
 
 ## Collaborative Papers
 <ol> 
- <li> L. Li, <b>Jianqing Lin</b>, C. He, L. Pan. Clustering-based genetic offspring generation for solving multi-objective optimization problems with intricate Pareto sets, <i>Applied Soft Computing</i>, 2024    </li>
- <li> C. He, H. Li, <b>Jianqing Lin</b>, and Z. Lu. Long Short-Term Memory Network Assisted Evolutionary Algorithm for Computational Expensive Multiobjective Optimization, in <i>IEEE Symposium Series on Computational Intelligence (IEEE SSCI)</i>, 2023   </li>
- <li> H. Jiang, <b>Jianqing Lin</b>, H. Zhu, and Y. Huang. Selection of Cancer Biomarkers from Microarray Gene Expression Data Utilizing the Bi-Objective Optimization Method, in <i>IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)</i>, 2023   </li>
+ <li> L. Li, <b>J.Lin</b>, C. He, L. Pan. Clustering-based genetic offspring generation for solving multi-objective optimization problems with intricate Pareto sets, <i>Applied Soft Computing</i>, 2024    </li>
+ <li> C. He, H. Li, <b>J.Lin</b>, and Z. Lu. Long Short-Term Memory Network Assisted Evolutionary Algorithm for Computational Expensive Multiobjective Optimization, in <i>IEEE Symposium Series on Computational Intelligence (IEEE SSCI)</i>, 2023   </li>
+ <li> H. Jiang, <b>J.Lin</b>, H. Zhu, and Y. Huang. Selection of Cancer Biomarkers from Microarray Gene Expression Data Utilizing the Bi-Objective Optimization Method, in <i>IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)</i>, 2023   </li>
 </ol>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
