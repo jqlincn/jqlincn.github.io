@@ -44,7 +44,6 @@ My research interest includes computational intelligence, multiobjective optimiz
  <li> <b>J.Lin</b> and L. Pan. <a href="https://www.sciencedirect.com/science/article/pii/S2210650222001316" target="_blank" rel="noopener noreferrer">Multiobjective Trajectory Optimization with a Cutting and Padding Encoding Strategy for Single-UAV-Assisted Mobile Edge Computing System</a>, <i>Swarm and Evolutionary Computation</i>, 2022  <span style="background-color: #FFD700; padding: 2px 5px; border-radius: 3px;"> JCR Q1</span> </li>
  <li> Y. Wang (Supervisor), <b>J.Lin</b>, J. Liu, G. Sun, and T. Pang. <a href="https://ieeexplore.ieee.org/document/9559391" target="_blank" rel="noopener noreferrer">Surrogate-Assisted Differential Evolution with Region Division for Expensive Optimization Problems with Discontinuous Responses</a>, <i>IEEE Transactions on Evolutionary Computation</i>, 2021 <span style="background-color: #FFD700; padding: 2px 5px; border-radius: 3px;"> JCR Q1</span> </li>
  <li> <b>J.Lin</b>, C. He, and R. Cheng. <a href="https://link.springer.com/article/10.1007/s40747-021-00362-5" target="_blank" rel="noopener noreferrer">Adaptive Dropout for High-dimensional Expensive Multiobjective Optimization</a>, <i>Complex & Intelligent Systems</i>, 2021  <span style="background-color: #FFD700; padding: 2px 5px; border-radius: 3px;"> JCR Q1</span> <a href="https://github.com/jqlincn/ADSAPSO">[Code]</a>  </li>
- 
 </ol>
 
 ## Collaborative Papers
