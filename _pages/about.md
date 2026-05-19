@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing the Ph.D. degree in artificial intelligence with the Huazhong University of Science and Technology, under the supervision of [Prof. Linqiang Pan](http://faculty.hust.edu.cn/panlinqiang/zh_CN/index.htm). I received my M.S. degree in the School of Automation from Central South University in 2020 under the supervision of [Prof. Yong Wang](https://faculty.csu.edu.cn/wangyong/zh_CN/index.htm).
+I am currently a Postdoctoral Fellow at The Hong Kong Polytechnic University. I received my Ph.D. degree in artificial intelligence with the Huazhong University of Science and Technology, under the supervision of [Prof. Linqiang Pan](http://faculty.hust.edu.cn/panlinqiang/zh_CN/index.htm). I received my M.S. degree in the School of Automation from Central South University in 2020 under the supervision of [Prof. Yong Wang](https://faculty.csu.edu.cn/wangyong/zh_CN/index.htm).
 
 My research interest includes computational intelligence, multiobjective optimization, and surrogate-assisted evolutionary optimization. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
